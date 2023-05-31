@@ -1,4 +1,4 @@
-# Freecode Camp
+# Freecode Camp Exercises
 
 This repo is not intended for an app, instead it is more of a workbook showing my progress and completed exercises on [FreeCodeCamp.org](https://www.freecodecamp.org). The main purpose is to hold code and other files to be used when completing courses on freecodecamp that require a submission link to complete.
 
